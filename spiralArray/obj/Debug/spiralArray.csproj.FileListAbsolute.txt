@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\spiralArray\spiralArray\bin\Debug\spiralArray.exe.config
+c:\users\user\documents\visual studio 2015\Projects\spiralArray\spiralArray\bin\Debug\spiralArray.exe
+c:\users\user\documents\visual studio 2015\Projects\spiralArray\spiralArray\bin\Debug\spiralArray.pdb
+c:\users\user\documents\visual studio 2015\Projects\spiralArray\spiralArray\obj\Debug\spiralArray.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\spiralArray\spiralArray\obj\Debug\spiralArray.exe
+c:\users\user\documents\visual studio 2015\Projects\spiralArray\spiralArray\obj\Debug\spiralArray.pdb
